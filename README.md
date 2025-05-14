@@ -40,8 +40,9 @@ The project runs automatically and executes the following functions:
 - `Program.cs`: Contains the main code implementing the graph algorithms.
 
 ## 👥 Contributors
-- Emir Kahraman
+
 - Bülent Yıldırım
+- Emir Kahraman
 
 📜 **License**: Licensed under the MIT License.
 
